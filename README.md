@@ -20,7 +20,7 @@ Gosto de construir fluxos de dados de ponta a ponta: desde a extração de APIs 
 Análise de dados competitivos extraídos da API do Stratz. O projeto consome dados brutos de partidas, trata os JSONs complexos e realiza análises de correlação de heróis (draft) e curvas de vantagem de ouro ao longo do tempo.
 * **Tecnologias:** Python (Requests, Pandas, Seaborn), APIs GraphQL.
 
-### 🏢 [Case Study: Automação de Ingestão de Auditorias (Stellantis WHS)](link-do-repositorio-ou-artigo)
+### 🏢 [Case Study: Automação de Ingestão de Auditorias (WHS)](link-do-repositorio-ou-artigo)
 *Nota: Código-fonte proprietário (privado).* Desenvolvimento de pipeline ETL para processar mais de 60 planilhas Excel dispersas recursivamente em subpastas, modelando um banco SQL relacional integrado a um dashboard no Power BI.
 * **Tecnologias:** Python (OpenPyXL, Pandas), SQL, Power BI.
 
